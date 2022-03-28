@@ -16,10 +16,10 @@ Set-up: A platforming environment where the agent can jump over a wall.
 Goal: The agent must use the block to scale the wall and reach the goal.
 Agents: The environment contains one agent linked to two different Models. The Policy the agent is linked to changes depending on the height of the wall. The change of Policy is done in the WallJumpAgent class.
 
-  ....Agent Reward Function:
-  ...-0.0005 for every step.
-  ...+1.0 if the agent touches the goal.
-  ...-1.0 if the agent falls off the platform.
+...Agent Reward Function:
+...-0.0005 for every step.
+...+1.0 if the agent touches the goal.
+...-1.0 if the agent falls off the platform.
   
   
 Behavior Parameters:
