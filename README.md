@@ -1,6 +1,8 @@
 # ReinforcementLearning_Algos
 
-Introduction to Reinforcement Learning
+This repository contain my work regarding Deep Reinforcment Learning. You will find the main topics organized by squence with there implementaion in PyTorch. Also, It contains some of my project or links on reinforcment learning. 
+
+## Different reinforcement Algos :
 
 Dynamic Programing: Implement Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration.
 
@@ -12,9 +14,9 @@ Deep Q-learning
 
 Policy Gradients
 
- Reinforce 
+*Tabspace* Reinforce 
  
- Proximal Policy Gradients
+*Tabspace* Proximal Policy Gradients
 
 
 # Project [PushBlock](https://github.com/PGCodehub/ReinforcementLearning_Algos/tree/main/RL_Agents_Projects/Assets/ML-Agents/Projects/PushBlock)
