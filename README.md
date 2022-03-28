@@ -1,13 +1,20 @@
 # ReinforcementLearning_Algos
 
 Introduction to Reinforcement Learning
+
 Dynamic Programing: Implement Dynamic Programming algorithms such as Policy Evaluation, Policy Improvement, Policy Iteration, and Value Iteration.
+
 Monte carlo: Implement Monte Carlo methods for prediction and control.
+
 Temporal Difference: Implement Temporal-Difference methods such as Sarsa, Q-Learning, and Expected Sarsa.
+
 Deep Q-learning
+
 Policy Gradients
-Actor Critic (A2C & A3C)
-Proximal Policy Gradients
+
+ Reinforce 
+ 
+ Proximal Policy Gradients
 
 
 # Project [PushBlock](https://github.com/PGCodehub/ReinforcementLearning_Algos/tree/main/RL_Agents_Projects/Assets/ML-Agents/Projects/PushBlock)
