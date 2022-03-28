@@ -8,7 +8,7 @@
 # Project [WallJump](https://github.com/PGCodehub/ReinforcementLearning_Algos/tree/main/RL_Agents_Projects/Assets/ML-Agents/Projects/WallJump)
 
 
-![alt text]( "WallJump")
+![alt text](https://github.com/PGCodehub/ReinforcementLearning_Algos/blob/main/RL_Agents_Projects/images/walljump.png "WallJump")
 
 
 About Enviroment
